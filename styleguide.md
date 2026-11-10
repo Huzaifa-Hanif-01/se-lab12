@@ -1,1 +1,1 @@
-If you have questions, please open an issue
+if yu have question, solve it
