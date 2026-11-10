@@ -1,1 +1,1 @@
-if yu have question, solve it
+if you have a question, email me
