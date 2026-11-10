@@ -1,1 +1,1 @@
-if you have questions, pleas ean issue
+If you have questions, please open an issue
